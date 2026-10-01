@@ -1,0 +1,1 @@
+This folder must exist in order to allow CMake to build the project.
